@@ -19,6 +19,7 @@ All templates use **pydantic-ai** for structured LLM outputs and **FastAPI** for
 | 03 | [**Multi-LLM Cost Optimizer**](https://github.com/Reactance0083/pydantic-ai-multi-llm-cost-optimizer) | Routes prompts to the cheapest model that handles them — Claude, GPT-4o, Groq |
 | 04 | [**Web Scraper + Semantic Search**](https://github.com/Reactance0083/pydantic-ai-web-scraper-semantic-search) | Scrapes any URL, extracts structured content, keyword + AI-ranked search |
 | 05 | [**Prompt Engineering Runbook**](https://github.com/Reactance0083/pydantic-ai-prompt-engineering-runbook) | 5 agents: SWOT analyzer, social post generator, code reviewer, summarizer, decision framework |
+| 06 | [**Email → Linear Auto-Triage**](https://github.com/Reactance0083/pydantic-ai-email-linear-auto-triage) | Classifies customer emails, sets priority, creates Linear issues automatically with Slack alerts for critical tickets |
 
 All templates are available individually or as a bundle on [**Gumroad**](https://reactance0083.gumroad.com).
 
