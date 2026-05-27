@@ -21,6 +21,7 @@ All templates use **pydantic-ai** for structured LLM outputs and **FastAPI** for
 | 05 | [**Prompt Engineering Runbook**](https://github.com/Reactance0083/pydantic-ai-prompt-engineering-runbook) | 5 agents: SWOT analyzer, social post generator, code reviewer, summarizer, decision framework |
 | 06 | [**Email → Linear Auto-Triage**](https://github.com/Reactance0083/pydantic-ai-email-linear-auto-triage) | Classifies customer emails, sets priority, creates Linear issues automatically with Slack alerts for critical tickets |
 
+| 07 | [**Email→Linear Issue Auto-Triage**](https://github.com/Reactance0083/pydantic-ai-email_linear_issue_auto_triage) | ### Rank 1 — Email→Linear Issue Auto-Triage | Score: 9/10 **Demand evidence:** Pattern-based signal from existing GitHub |
 All templates are available individually or as a bundle on [**Gumroad**](https://reactance0083.gumroad.com).
 
 ---
