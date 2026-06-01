@@ -22,6 +22,7 @@ All templates use **pydantic-ai** for structured LLM outputs and **FastAPI** for
 | 06 | [**Email → Linear Auto-Triage**](https://github.com/Reactance0083/pydantic-ai-email-linear-auto-triage) | Classifies customer emails, sets priority, creates Linear issues automatically with Slack alerts for critical tickets |
 | 07 | [**PDF/Document RAG API Starter**](https://github.com/Reactance0083/pydantic-ai-pdf_document_rag_api_starter) | FastAPI service that ingests PDFs, chunks + embeds to pgvector, and exposes `/query` returning pydantic-validated answe |
 | 08 | [**Customer Support Ticket → AI Auto-Responder with Human Handoff**](https://github.com/Reactance0083/pydantic-ai-customer_support_ticket_ai_auto_responde) | FastAPI webhook receiving tickets (Zendesk/Intercom/Help Scout), pydantic-ai agent with RAG over docs + confidence scor |
+| 09 | [**PDF/Document → Structured JSON Extractor API**](https://github.com/Reactance0083/pydantic-ai-pdf_document_structured_json_extractor_a) | FastAPI service accepting PDF/image upload, using pydantic-ai with a user-defined Pydantic schema to extract typed fiel |
 
 All templates are available individually or as a bundle on [**Gumroad**](https://reactance0083.gumroad.com).
 
