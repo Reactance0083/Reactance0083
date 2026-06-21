@@ -25,6 +25,7 @@ All templates use **pydantic-ai** for structured LLM outputs and **FastAPI** for
 | 09 | [**PDF/Document → Structured JSON Extractor API**](https://github.com/Reactance0083/pydantic-ai-pdf_document_structured_json_extractor_a) | FastAPI service accepting PDF/image upload, using pydantic-ai with a user-defined Pydantic schema to extract typed fiel |
 | 10 | [**Discord Community→Notion Knowledge Base**](https://github.com/Reactance0083/pydantic-ai-discord_community_notion_knowledge_base) | FastAPI service that polls Discord channels via bot token, uses pydantic-ai to classify messages (question/answer/decis |
 | 11 | [**Multi-LLM Model for Question Answering**](https://github.com/Reactance0083/pydantic-ai-multi_llm_model_for_question_answering) | Develop a multi-LLM model that integrates multiple language models to provide more accurate and contextual question ans |
+| 12 | [**AI Meeting Notes → Linear/Notion Action Items**](https://github.com/Reactance0083/pydantic-ai-ai_meeting_notes_linear_notion_action_it) | A FastAPI webhook receiver that accepts audio file uploads or meeting transcript text, runs pydantic-ai agent extractio |
 
 All templates are available individually or as a bundle on [**Gumroad**](https://reactance0083.gumroad.com).
 
