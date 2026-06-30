@@ -1,37 +1,52 @@
-# Wade Allen / AIFactory
+# AIFactory
 
-AI Workflow Architect building pydantic-ai + FastAPI developer kits for practical LLM workflows.
+Practical pydantic-ai + FastAPI starter kits for developers building LLM workflows.
 
-## Start Here
+## Start Here: Multi-LLM Cost Optimizer
 
-**Multi-LLM Cost Optimizer** is the current AIFactory flagship.
+**Route LLM prompts across providers, see estimated spend, and start from a working FastAPI example instead of a blank repo.**
 
-- [Explore the free GitHub starter](https://github.com/Reactance0083/pydantic-ai-multi-llm-cost-optimizer)
-- [Get the $29 Production Acceleration Kit](https://reactance0083.gumroad.com/l/ztmlv)
+Multi-LLM Cost Optimizer is the current AIFactory flagship.
 
-The free repo lets you inspect and run the starter before buying anything. The paid Gumroad kit is for developers who want to move faster with deployment notes, hardening checklists, routing guidance, operations material, premium examples, verification steps, architecture notes, version history, and commercial license notes.
-
-## What AIFactory Builds
-
-AIFactory builds small, inspectable AI workflow kits for developers and technical founders using FastAPI, pydantic-ai, and provider APIs. The current focus is validating one polished flagship before promoting the rest of the catalog.
-
-## Projects
-
-| Project | Status | What to expect |
+| Choose this | If you want to... | Link |
 |---|---|---|
-| [Multi-LLM Cost Optimizer](https://github.com/Reactance0083/pydantic-ai-multi-llm-cost-optimizer) | **Live flagship** | Free starter on GitHub; $29 Production Acceleration Kit on Gumroad |
-| [Slack to Notion Automation](https://github.com/Reactance0083/pydantic-ai-slack-notion-automation) | Coming Soon | Useful code reference; not being promoted as a paid product right now |
-| [GitHub Issue Triage to Linear](https://github.com/Reactance0083/pydantic-ai-github-issue-triage) | Coming Soon | Useful code reference; not being promoted as a paid product right now |
-| [Web Scraper + Semantic Search](https://github.com/Reactance0083/pydantic-ai-web-scraper-semantic-search) | Coming Soon | Useful code reference; not being promoted as a paid product right now |
-| [Prompt Engineering Runbook](https://github.com/Reactance0083/pydantic-ai-prompt-engineering-runbook) | Coming Soon | Useful code reference; not being promoted as a paid product right now |
-| [Email to Linear Auto-Triage](https://github.com/Reactance0083/pydantic-ai-email-linear-auto-triage) | Preview | Early public preview; not ready to buy as a packaged product |
-| [PDF / Document RAG API Starter](https://github.com/Reactance0083/pydantic-ai-pdf-document-rag-api-starter) | Preview | Early public preview; not ready to buy as a packaged product |
-| [Customer Support Ticket Auto-Responder](https://github.com/Reactance0083/pydantic-ai-customer_support_ticket_ai_auto_responde) | Preview | Early public preview; not ready to buy as a packaged product |
-| [Structured JSON Extractor](https://github.com/Reactance0083/pydantic-ai-pdf_document_structured_json_extractor_a) | Preview | Early public preview; not ready to buy as a packaged product |
-| [Discord Community to Notion Knowledge Base](https://github.com/Reactance0083/pydantic-ai-discord_community_notion_knowledge_base) | Archived | Historical preview kept for reference |
-| [AI Meeting Notes to Linear / Notion](https://github.com/Reactance0083/pydantic-ai-ai_meeting_notes_linear_notion_action_it) | Archived | Historical preview kept for reference |
-| [NicheClipCo Clipart](https://github.com/Reactance0083/nicheclipco-clipart) | Explore | Older side project, separate from the current AIFactory product focus |
+| Free GitHub starter | Inspect the code, run the basic app, and decide whether the approach fits | [Open the repo](https://github.com/Reactance0083/pydantic-ai-multi-llm-cost-optimizer) |
+| $29 Production Acceleration Kit | Save implementation time with deployment notes, hardening checklists, routing guidance, examples, verification steps, and architecture notes | [Get the Gumroad kit](https://reactance0083.gumroad.com/l/ztmlv) |
 
-## Simple Rule
+The GitHub repo is the trust layer: readable source, setup instructions, and a no-credential smoke test. Gumroad is the acceleration layer: the paid package adds the material a developer usually has to create before using a starter safely in a real project.
 
-Use GitHub to inspect the work for free. Buy on Gumroad only when a product page clearly says the package is ready and the paid materials save you implementation time.
+## Why Buy The Kit?
+
+| Need | Free GitHub starter | $29 Production Acceleration Kit |
+|---|---:|---:|
+| Working FastAPI starter | Yes | Yes |
+| Basic local setup | Yes | Yes |
+| No-credential smoke test | Yes | Yes |
+| Deployment guide | No | Yes |
+| Production hardening checklist | No | Yes |
+| Routing playbook | No | Yes |
+| Operations checklist | No | Yes |
+| Premium examples and buyer verification steps | No | Yes |
+| Architecture and implementation notes | No | Yes |
+| Commercial license notes and version history | No | Yes |
+
+## Project Guide
+
+| Project | Helps you... | Availability | Next step |
+|---|---|---|---|
+| [Multi-LLM Cost Optimizer](https://github.com/Reactance0083/pydantic-ai-multi-llm-cost-optimizer) | Route prompts across LLM providers and track estimated spend | **Live flagship** | Start here or buy the [$29 kit](https://reactance0083.gumroad.com/l/ztmlv) |
+| [Slack to Notion Automation](https://github.com/Reactance0083/pydantic-ai-slack-notion-automation) | Capture useful Slack messages into a Notion database | Coming Soon | Explore the code reference |
+| [GitHub Issue Triage to Linear](https://github.com/Reactance0083/pydantic-ai-github-issue-triage) | Turn GitHub issues into prioritized Linear tickets | Coming Soon | Explore the code reference |
+| [Web Scraper + Semantic Search](https://github.com/Reactance0083/pydantic-ai-web-scraper-semantic-search) | Scrape pages and search structured content | Coming Soon | Explore the code reference |
+| [Prompt Engineering Runbook](https://github.com/Reactance0083/pydantic-ai-prompt-engineering-runbook) | Try structured prompt/agent patterns for common workflows | Coming Soon | Explore the code reference |
+| [Email to Linear Auto-Triage](https://github.com/Reactance0083/pydantic-ai-email-linear-auto-triage) | Convert inbound emails into Linear issues | Preview | Browse only; not packaged for sale |
+| [PDF / Document RAG API Starter](https://github.com/Reactance0083/pydantic-ai-pdf-document-rag-api-starter) | Explore a document search/RAG API concept | Preview | Browse only; not packaged for sale |
+| [Customer Support Ticket Auto-Responder](https://github.com/Reactance0083/pydantic-ai-customer_support_ticket_ai_auto_responde) | Draft support replies with human handoff | Preview | Browse only; not packaged for sale |
+| [Structured JSON Extractor](https://github.com/Reactance0083/pydantic-ai-pdf_document_structured_json_extractor_a) | Extract structured data from documents | Preview | Browse only; not packaged for sale |
+| [Discord Community to Notion Knowledge Base](https://github.com/Reactance0083/pydantic-ai-discord_community_notion_knowledge_base) | Turn Discord discussions into Notion knowledge entries | Archived | Historical reference |
+| [AI Meeting Notes to Linear / Notion](https://github.com/Reactance0083/pydantic-ai-ai_meeting_notes_linear_notion_action_it) | Convert meeting notes into action items | Archived | Historical reference |
+| [NicheClipCo Clipart](https://github.com/Reactance0083/nicheclipco-clipart) | View an older generated clipart experiment | Explore | Separate from AIFactory's current product focus |
+
+## How To Read This Page
+
+GitHub is for inspection and trust. Gumroad is for paid implementation acceleration. Only the Multi-LLM Cost Optimizer is currently promoted as a live paid product.
