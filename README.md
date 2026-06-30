@@ -1,8 +1,7 @@
 # Hi, I'm Wade Allen
 
 **AI Workflow Architect** — I connect business tools to LLMs and make the whole stack run without babysitting.
-
-Previously at CoinTracker, where I built production AI systems tying together Slack, Notion, GitHub, Linear, Guru, and Canny — triage bots, auto-routing pipelines, workflow automation that actually stayed running.
+I have built production AI systems tying together Slack, Notion, GitHub, Linear, Guru, and Canny — triage bots, auto-routing pipelines, workflow automation that actually stayed running.
 
 Now I build open-source templates and take on consulting work for teams that want real AI integrations, not demos.
 
