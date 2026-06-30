@@ -1,74 +1,22 @@
-# Hi, I'm Wade Allen
+# Wade Allen / AIFactory
 
-**AI Workflow Architect** — I connect business tools to LLMs and make the whole stack run without babysitting.
-I have built production AI systems tying together Slack, Notion, GitHub, Linear, Guru, and Canny — triage bots, auto-routing pipelines, workflow automation that actually stayed running.
+AI Workflow Architect building pydantic-ai + FastAPI developer tools.
 
-Now I build open-source templates and take on consulting work for teams that want real AI integrations, not demos.
+## Commercial status
 
----
+AIFactory's Gumroad catalog is temporarily paused while every listing, repository, README, and downloadable package is being verified from the customer perspective.
 
-## Open Source Templates
+Do not purchase any AIFactory Gumroad product until the product page explicitly says verification is complete and the product is available again.
 
-All templates use **pydantic-ai** for structured LLM outputs and **FastAPI** for the webhook/API layer. Drop one into your project and have a working AI integration in under 10 minutes.
+Current flagship candidate: Multi-LLM Cost Optimizer.
 
-| # | Template | What It Does |
-|---|----------|-------------|
-| 01 | [**Slack → Notion Automation**](https://github.com/Reactance0083/pydantic-ai-slack-notion-automation) | Classifies Slack messages, auto-creates Notion entries for tasks/decisions/blockers |
-| 02 | [**GitHub Issue → Linear Triage**](https://github.com/Reactance0083/pydantic-ai-github-issue-triage) | Reads new issues, assigns priority + story points, creates Linear tickets automatically |
-| 03 | [**Multi-LLM Cost Optimizer**](https://github.com/Reactance0083/pydantic-ai-multi-llm-cost-optimizer) | Routes prompts to the cheapest model that handles them — Claude, GPT-4o, Groq |
-| 04 | [**Web Scraper + Semantic Search**](https://github.com/Reactance0083/pydantic-ai-web-scraper-semantic-search) | Scrapes any URL, extracts structured content, keyword + AI-ranked search |
-| 05 | [**Prompt Engineering Runbook**](https://github.com/Reactance0083/pydantic-ai-prompt-engineering-runbook) | 5 agents: SWOT analyzer, social post generator, code reviewer, summarizer, decision framework |
-| 06 | [**Email → Linear Auto-Triage**](https://github.com/Reactance0083/pydantic-ai-email-linear-auto-triage) | Classifies customer emails, sets priority, creates Linear issues automatically with Slack alerts for critical tickets |
-| 07 | [**PDF/Document RAG API Starter**](https://github.com/Reactance0083/pydantic-ai-pdf_document_rag_api_starter) | FastAPI service that ingests PDFs, chunks + embeds to pgvector, and exposes `/query` returning pydantic-validated answe |
-| 08 | [**Customer Support Ticket → AI Auto-Responder with Human Handoff**](https://github.com/Reactance0083/pydantic-ai-customer_support_ticket_ai_auto_responde) | FastAPI webhook receiving tickets (Zendesk/Intercom/Help Scout), pydantic-ai agent with RAG over docs + confidence scor |
-| 09 | [**PDF/Document → Structured JSON Extractor API**](https://github.com/Reactance0083/pydantic-ai-pdf_document_structured_json_extractor_a) | FastAPI service accepting PDF/image upload, using pydantic-ai with a user-defined Pydantic schema to extract typed fiel |
-| 10 | [**Discord Community→Notion Knowledge Base**](https://github.com/Reactance0083/pydantic-ai-discord_community_notion_knowledge_base) | FastAPI service that polls Discord channels via bot token, uses pydantic-ai to classify messages (question/answer/decis |
-| 11 | [**Multi-LLM Model for Question Answering**](https://github.com/Reactance0083/pydantic-ai-multi_llm_model_for_question_answering) | Develop a multi-LLM model that integrates multiple language models to provide more accurate and contextual question ans |
-| 12 | [**AI Meeting Notes → Linear/Notion Action Items**](https://github.com/Reactance0083/pydantic-ai-ai_meeting_notes_linear_notion_action_it) | A FastAPI webhook receiver that accepts audio file uploads or meeting transcript text, runs pydantic-ai agent extractio |
+Status: package repaired and smoke-tested locally; waiting on Gumroad dashboard ZIP replacement and checkout/delivery verification before sale resumes.
 
-All templates are available individually or as a bundle on [**Gumroad**](https://reactance0083.gumroad.com).
+## Public repositories
 
----
+Some repositories are active previews or deferred references. Each product repository now includes a commercial status banner at the top of its README. Treat that banner as the source of truth for whether the repository is a verified commercial product, preview scaffold, deferred product, or archived reference.
 
-## Tech Stack
+## Links
 
-![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-0.115+-009688?style=flat&logo=fastapi&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-Claude-D97757?style=flat&logoColor=white)
-![pydantic](https://img.shields.io/badge/pydantic--ai-1.x-E92063?style=flat&logoColor=white)
-![litellm](https://img.shields.io/badge/litellm-multi--model-6B46C1?style=flat&logoColor=white)
-
-**APIs I work with regularly:** Anthropic Claude, OpenAI, Slack, Notion, GitHub, Linear, Guru, Canny  
-**Infrastructure:** FastAPI, uvicorn, httpx, Playwright, pydantic-ai, litellm
-
----
-
-## Consulting
-
-I take on a small number of consulting engagements for teams that want AI workflows that actually stick.
-
-**What I do:**
-- Connect your existing tools (Slack, Notion, GitHub, Linear, etc.) to LLM pipelines
-- Build triage systems, auto-routing, and workflow automation
-- Structure your prompts so outputs are always machine-readable (no regex parsing)
-- Audit existing AI setups for reliability and cost
-
-**Typical engagement:** 1-4 weeks, fixed scope, clear deliverables.
-
-**To start a conversation:** [cw.allen0083@gmail.com](mailto:cw.allen0083@gmail.com?subject=Consulting+Inquiry) or [book a discovery call](#) *(Calendly link — coming soon)*
-
----
-
-## Recent Activity
-
-<!--START_SECTION:activity-->
-Building in public — all templates are open source.
-<!--END_SECTION:activity-->
-
----
-
-<p align="center">
-  <a href="https://github.com/Reactance0083?tab=repositories">View all repos</a> ·
-  <a href="https://reactance0083.gumroad.com">Templates on Gumroad</a> ·
-  <a href="mailto:cw.allen0083@gmail.com">Get in touch</a>
-</p>
+- GitHub: https://github.com/Reactance0083
+- Gumroad catalog: https://reactance0083.gumroad.com (temporarily paused)
