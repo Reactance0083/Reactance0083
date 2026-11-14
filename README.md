@@ -10,7 +10,7 @@ I am pursuing opportunities in **AI workflow automation, blockchain technology, 
 
 | Project | Problem and contribution | Current status |
 | --- | --- | --- |
-| **[ENS & digital identity portfolio](https://github.com/Reactance0083/ens-portfolio-showcase)** | Nine published sites exploring product passports, asset records, organizational identity, and agent permissions; educational resources and a managed-subname commerce prototype. | Public sites and resources; commerce activation paused. |
+| **[ENS & digital identity portfolio](https://github.com/Reactance0083/ens-portfolio-showcase)** | ENS names and educational websites covering product passports, asset records, organizational identity, and agent permissions. | Educational portfolio. |
 | **[ORA operations workflows](https://github.com/Reactance0083/ora-workflow-case-study)** | Translate industrial-equipment requirements into structured sourcing, qualification, follow-up, and operational tracking. | Implemented workflow components and website; commercial validation ongoing. |
 | **[Multi-LLM Cost Optimizer](https://github.com/Reactance0083/pydantic-ai-multi-llm-cost-optimizer)** | FastAPI starter for model routing, quality tiers, estimated usage cost, and fallback behavior. | Public source with a credential-free smoke test. |
 | **[Slack to Notion](https://github.com/Reactance0083/pydantic-ai-slack-notion-automation)** | Classify incoming messages and prepare structured knowledge records through a signed-webhook integration. | Integration reference; external-service verification required. |
