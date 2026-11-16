@@ -14,15 +14,22 @@ This index separates current case studies, source implementations, and earlier e
 
 ## AI integration references
 
-These repositories contain implementation code. Current provider compatibility and live integrations need verification before deployment.
+These two prototypes contain implementation code and offline regression tests. The November 16, 2026 checks used test-model outputs and mocked service responses. Live integrations and model accuracy still need verification.
 
 | Repository | What to inspect |
 | --- | --- |
 | [Slack to Notion](https://github.com/Reactance0083/pydantic-ai-slack-notion-automation) | Signed events, typed message classification, Notion record creation, Slack replies. |
 | [GitHub issue triage](https://github.com/Reactance0083/pydantic-ai-github-issue-triage) | Webhook signatures, triage schema, Linear handoff, issue comments. |
-| [Email to Linear](https://github.com/Reactance0083/pydantic-ai-email-linear-auto-triage) | Email-shaped JSON input, structured classification, issue creation, critical-item notification. |
-| [Web extraction and search](https://github.com/Reactance0083/pydantic-ai-web-scraper-semantic-search) | HTML cleanup, structured extraction, local JSON index, keyword filtering, LLM reranking. |
-| [Prompt workflow runbook](https://github.com/Reactance0083/pydantic-ai-prompt-engineering-runbook) | Typed outputs for SWOT, writing, review, summaries, and decision support. |
+
+## Archived AI workflow experiments
+
+These three older prototypes are archived and removed from the active portfolio. Their source is retained as historical work, without claims of current compatibility or production readiness.
+
+| Repository | Historical idea and reason for retirement |
+| --- | --- |
+| [Email to Linear](https://github.com/Reactance0083/pydantic-ai-email-linear-auto-triage) | Convert email-shaped input into tickets. The implementation has obsolete dependencies and an incorrect urgency mapping; the maintained issue-triage prototype is the stronger example. |
+| [Web extraction and search](https://github.com/Reactance0083/pydantic-ai-web-scraper-semantic-search) | Summarize web pages into a local searchable collection. The implementation is dated and was not validated as a deployed search service. |
+| [Prompt workflow runbook](https://github.com/Reactance0083/pydantic-ai-prompt-engineering-runbook) | Reusable structured AI tasks for summaries, writing, and analysis. The generic examples add little beyond the more concrete retained workflows. |
 
 ## Archived interface experiments
 
