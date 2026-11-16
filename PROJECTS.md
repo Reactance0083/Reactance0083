@@ -11,7 +11,6 @@ This index separates current case studies, source implementations, and earlier e
 | [ENS portfolio](https://github.com/Reactance0083/ens-portfolio-showcase) | Public sites, research/resources, architecture, prototype verification scope. |
 | [ORA operations](https://github.com/Reactance0083/ora-workflow-case-study) | Business workflow, implementation history, integration boundaries, acceptance approach. |
 | [LLM optimizer](https://github.com/Reactance0083/pydantic-ai-multi-llm-cost-optimizer) | Runnable FastAPI source and existing smoke test. |
-| [Market-analysis pipeline](https://github.com/Reactance0083/market-analysis-case-study) | Read-only research architecture, scheduling, calibration, immutable reporting. |
 
 ## AI integration references
 
@@ -25,7 +24,9 @@ These repositories contain implementation code. Current provider compatibility a
 | [Web extraction and search](https://github.com/Reactance0083/pydantic-ai-web-scraper-semantic-search) | HTML cleanup, structured extraction, local JSON index, keyword filtering, LLM reranking. |
 | [Prompt workflow runbook](https://github.com/Reactance0083/pydantic-ai-prompt-engineering-runbook) | Typed outputs for SWOT, writing, review, summaries, and decision support. |
 
-## Interface scaffolds
+## Archived interface experiments
+
+These four repositories are archived and retained for historical reference. They are not active projects or functioning product demonstrations.
 
 | Repository | Actual scope of public source |
 | --- | --- |
@@ -44,4 +45,4 @@ Archived repositories remain historical references. Personal research and unrela
 
 Projects were developed with AI assistance. My contribution centers on problem selection, requirements, workflow design, implementation direction, user-journey review, and acceptance criteria. Public code and case studies provide the evidence for each project's actual scope.
 
-Reviewed November 10, 2026.
+Updated November 16, 2026.
