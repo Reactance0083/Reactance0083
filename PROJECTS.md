@@ -10,7 +10,6 @@ This index separates current case studies, source implementations, and earlier e
 | --- | --- |
 | [ENS portfolio](https://github.com/Reactance0083/ens-portfolio-showcase) | Public sites, research/resources, architecture, prototype verification scope. |
 | [ORA operations](https://github.com/Reactance0083/ora-workflow-case-study) | Business workflow, implementation history, integration boundaries, acceptance approach. |
-| [LLM optimizer](https://github.com/Reactance0083/pydantic-ai-multi-llm-cost-optimizer) | Runnable FastAPI source and existing smoke test. |
 
 ## AI integration references
 
@@ -52,4 +51,4 @@ Archived repositories remain historical references. Personal research and unrela
 
 Projects were developed with AI assistance. My contribution centers on problem selection, requirements, workflow design, implementation direction, user-journey review, and acceptance criteria. Public code and case studies provide the evidence for each project's actual scope.
 
-Updated November 16, 2026.
+Updated November 17, 2026.
