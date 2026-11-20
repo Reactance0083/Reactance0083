@@ -10,7 +10,7 @@ I am pursuing opportunities in **AI workflow automation, blockchain technology, 
 
 | Project | Problem and contribution | Current status |
 | --- | --- | --- |
-| **[ENS & digital identity portfolio](https://github.com/Reactance0083/ens-portfolio-showcase)** | ENS names and educational websites covering product passports, asset records, organizational identity, and agent permissions. | Educational portfolio. |
+| **[Strategic ENS digital identity portfolio](https://github.com/Reactance0083/ens-portfolio-showcase)** | ENS names and educational websites covering product passports, asset records, organizational identity, and agent permissions. | Educational portfolio. |
 | **[ORA operations workflows](https://github.com/Reactance0083/ora-workflow-case-study)** | Translate industrial-equipment requirements into structured sourcing, qualification, follow-up, and operational tracking. | Implemented workflow components and website; commercial validation ongoing. |
 | **[Slack to Notion](https://github.com/Reactance0083/pydantic-ai-slack-notion-automation)** | Classify incoming messages and prepare structured knowledge records through a signed-webhook integration. | Prototype with offline regression checks; live integration still needs verification. |
 | **[GitHub issue triage](https://github.com/Reactance0083/pydantic-ai-github-issue-triage)** | Turn issue reports into structured classification and Linear handoffs. | Prototype with offline regression checks; live integration still needs verification. |
@@ -35,6 +35,6 @@ My customer-facing experience includes crypto support, payment and transaction i
 
 ## Contact
 
-**Dallas, Texas** · [cw.allen0083@gmail.com](mailto:cw.allen0083@gmail.com) · [ENS portfolio](https://productpassport-eth.netlify.app/portfolio/)
+**Dallas, Texas** · [cw.allen0083@gmail.com](mailto:cw.allen0083@gmail.com) · [Strategic ENS portfolio](https://reactance0083.github.io/strategic-ens/)
 
-_Portfolio updated November 17, 2026._
+_Portfolio updated November 20, 2026._
